@@ -1,4 +1,4 @@
-# contacts-mac-sb
+# silverbullet-mac-contacts
 
 Export Apple Contacts (macOS/iCloud) into Markdown files for a SilverBullet
 space — one file per person, one file per company, linked to each other with
